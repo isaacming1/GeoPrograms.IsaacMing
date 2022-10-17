@@ -63,4 +63,4 @@ public class ImageFilter extends World {
             plane.move(1000);
         }
     }
-}
+}//
